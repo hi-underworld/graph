@@ -39,8 +39,7 @@ for any x,y in G, diam(G) is the largest d(x,y).
 ## some propositions
 
 
-
-![截屏2022-10-14 16.38.05](/Users/underworld/graph/path & circle/截屏2022-10-14 16.38.05.png)
+https://github.com/hi-underworld/graph/blob/main/path%20%26%20circle/截屏2022-10-14%2016.38.05.png
 
 
 
